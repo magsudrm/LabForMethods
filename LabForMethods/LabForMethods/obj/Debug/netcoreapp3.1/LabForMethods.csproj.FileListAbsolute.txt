@@ -1,0 +1,14 @@
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\bin\Debug\netcoreapp3.1\LabForMethods.exe
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\bin\Debug\netcoreapp3.1\LabForMethods.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\bin\Debug\netcoreapp3.1\LabForMethods.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\bin\Debug\netcoreapp3.1\LabForMethods.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\bin\Debug\netcoreapp3.1\LabForMethods.dll
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\bin\Debug\netcoreapp3.1\LabForMethods.pdb
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\obj\Debug\netcoreapp3.1\LabForMethods.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\obj\Debug\netcoreapp3.1\LabForMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\obj\Debug\netcoreapp3.1\LabForMethods.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\obj\Debug\netcoreapp3.1\LabForMethods.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\obj\Debug\netcoreapp3.1\LabForMethods.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\obj\Debug\netcoreapp3.1\LabForMethods.dll
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\obj\Debug\netcoreapp3.1\LabForMethods.pdb
+C:\Users\Maqsud\Desktop\Homeworks\LabForMethods\LabForMethods\obj\Debug\netcoreapp3.1\LabForMethods.genruntimeconfig.cache
